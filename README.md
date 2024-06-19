@@ -10,9 +10,11 @@ email:1746977412@qq.com
 
 2.gcc -o app app.c
 
-3../app
+3.ll -al /dev | grep my_device
 
-4.输入需要写入的数
+4../app
+
+5.输入需要写入的数
 
 Enter the Value to send:
 
